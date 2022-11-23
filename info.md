@@ -15,3 +15,5 @@
 > git checkout - переход от одной версии комита к другой (после checkout указываем хеш-код) 
 >
 > git checkout master - вернуться к октуальному состоянию и продолжить работу (иногда вместо master нужно ввести main)
+>
+*Шпаргалка по Git:* **https://proglib.io/p/git-cheatsheet**
