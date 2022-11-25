@@ -24,4 +24,4 @@
 >
 > git branch <branch_name > - создание ветки с названием branch_name
 
->git commit -am “message” –  добавление файлов в отслеживание (git add) и создание коммита (git commit -m "message")
+>git checkout <branch_name > –  переход к ветке с именем <branch_name >
