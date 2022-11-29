@@ -24,7 +24,13 @@
 >
 > git branch <branch_name > - создание ветки с названием branch_name
 
->git checkout <branch_name > –  переход к ветке с именем <branch_name >
->git commit -am “message” –  добавление файлов в отслеживание (git add) и создание коммита (git commit -m "message")
+> git branch -m <branch_new_name > - переименование текущей ветки с новым именем <branch_new_name >
 
->git branch -d <branch_name > - удаление ветки с именем <branch_name >
+> git merge <branch_name > –  слияние информации из веток с именем <branch_name > в текущую ветку
+> 
+> git merge --abort –  отмена слияния информации из веток, которое прошло с конфликтом
+
+> git branch -d <branch_name > - удаление ветки с именем <branch_name >
+
+# Основные  команды третьего семинара
+
